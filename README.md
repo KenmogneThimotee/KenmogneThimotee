@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Thimotee
 - 👀 I’m interested in Computer science, Machine learning, Cloud ...
-- 🌱 I’m currently preparing for taking Google cloud machine learning enginneer exam
-- 💞️ I’m looking to collaborate on research project in the field of AI
+- 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me: mail := kenmognethimotee@gmail.com , linkedIn := https://www.linkedin.com/in/kenmogne/ , twitter := https://twitter.com/Dlocalhost 
 
